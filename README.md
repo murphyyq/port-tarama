@@ -2,8 +2,9 @@
 bu aracı'ları kullanabilmeniz için sisteminizde nmap kurulu olmalıdır
 
 # kullanımı
-
-* python3 portarama.py
+'''
+ python3 portarama.py
+'''
 ip adresi yada siteyi yazın ama protokolsüz halini örneğin:
 bir url:https://google.com/ diye olur ama bu aracı ya yazacağınız şöyle olmalıdır 
 google.com yada sadece ip adresi 192.287.23.23 gibi 
